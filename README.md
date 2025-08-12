@@ -61,3 +61,7 @@ A Web Scraping Application that can scrape anything
 ├── pyproject.toml             # Project metadata and dependencies (for Poetry or modern Python projects)
 
 
+### References
+
+1. https://freedium.cfd/https://medium.com/@ketangangal98/project-structure-for-generative-ai-afa8d0a9ef36
+2. https://cloud.google.com/architecture/deploy-operate-generative-ai-applications
