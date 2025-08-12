@@ -1,0 +1,1 @@
+# This is a settings file to manage all environments variables for the application.
